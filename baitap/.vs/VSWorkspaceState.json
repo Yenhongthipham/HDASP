@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BlazorApp",
+    "\\BlazorApp\\Data",
+    "\\BlazorApp\\obj",
+    "\\BlazorApp\\Pages",
+    "\\BlazorApp\\Properties",
+    "\\BlazorApp\\Shared",
+    "\\BlazorApp\\wwwroot",
+    "\\BlazorApp\\wwwroot\\css",
+    "\\BlazorApp\\wwwroot\\css\\bootstrap"
+  ],
+  "SelectedNode": "\\BlazorApp\\BlazorApp.csproj",
+  "PreviewInSolutionExplorer": false
+}
